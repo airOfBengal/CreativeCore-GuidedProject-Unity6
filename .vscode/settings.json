@@ -66,5 +66,5 @@
     "explorer.fileNesting.patterns": {
         "*.sln": "*.csproj"
     },
-    "dotnet.defaultSolution": "CreativeCore-GuidedProject-Unity6.sln"
+    "dotnet.defaultSolution": "CreativeCore-GuidedProject-Unity6.slnx"
 }
